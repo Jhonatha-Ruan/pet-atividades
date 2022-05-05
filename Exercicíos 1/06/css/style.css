@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(24, 24, 24);
+    color: black;
+    text-align: center;
+
+}
+
+main {
+    margin: 0 auto;
+    background-color: rgb(180, 180, 180);
+    border-radius: 10px;
+    width: 50%;
+    padding: 20px;
+    margin-top: 5%;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: Tahoma; 
+    color: darkblue;
+    font-size: 5;
+}
+
+img {
+    height: 50%;
+    width: 300px;
+}
+
+.hr-1 {
+    border: 2px solid black
+}
+
+#hr-2 {
+    border: 3px solid black;
+}
+
+
+#p {
+    font-family: Arial;
+}

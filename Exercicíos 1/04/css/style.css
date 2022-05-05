@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(24, 24, 24);
+    color: black;
+    font-family: Arial;
+
+}
+
+main {
+    margin: 0 auto;
+    background-color: rgb(180, 180, 180);
+    border-radius: 10px;
+    width: 50%;
+    padding: 20px;
+    margin-top: 5%;
+    font-size: 20px;
+}
+
+.verde{
+    color: green;
+    font-size: 12px;
+}
+.vermelho{
+    color: red;
+}
+.azul{
+    color: blue;
+    font-size: 20px;
+}
+
